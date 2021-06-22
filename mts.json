@@ -2,11 +2,11 @@
   "magisk": {
     "version": "7717f0a6-lite",
     "versionCode": "23001",
-    "link": "lite-app-release.apk",
+    "link": "https://cdn.jsdelivr.net/gh/apnmyid/magisk_files@releases/download/v23.001/lite-app-release.apk",
     "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@7d788157970c577162f07737292b70285e1b5940/app/src/main/res/raw/changelog.md"
   },
   "stub": {
     "versionCode": "20",
-    "link": "lite-stub-release.apk"
+    "link": "https://cdn.jsdelivr.net/gh/apnmyid/magisk_files@releases/download/v23.001/lite-stub-release.apk"
   }
 }
