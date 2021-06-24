@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "7d788157",
-    "versionCode": "23001",
+    "version": "23.0.2",
+    "versionCode": "23002",
     "link": "https://raw.githubusercontent.com/apnmyid/magisk_files/master/app-release.apk",
-    "note": "https://topjohnwu.github.io/Magisk/releases/22000.md"
+    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@7d788157970c577162f07737292b70285e1b5940/app/src/main/res/raw/changelog.md"
   },
   "stub": {
-    "versionCode": "21",
+    "versionCode": "22",
     "link": "https://raw.githubusercontent.com/apnmyid/magisk_files/master/stub-release.apk"
   },
   "uninstaller": {
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v21.4/Magisk-uninstaller-20210117.zip"
   },
   "magisk": {
-    "version": "7d788157",
-    "versionCode": "23001",
+    "version": "23.0.2",
+    "versionCode": "23002",
     "link": "https://raw.githubusercontent.com/apnmyid/magisk_files/master/app-release.apk",
     "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@7d788157970c577162f07737292b70285e1b5940/app/src/main/res/raw/changelog.md",
     "md5": "2df97fb30147b55a1d99ba75e8eadc29"
