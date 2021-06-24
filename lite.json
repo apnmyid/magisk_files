@@ -1,12 +1,12 @@
 {
   "magisk": {
-    "version": "23.0.2",
-    "versionCode": "23002",
+    "version": "23.0.3",
+    "versionCode": "23003",
     "link": "app-release.apk",
     "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@7d788157970c577162f07737292b70285e1b5940/app/src/main/res/raw/changelog.md"
   },
   "stub": {
-    "versionCode": "22",
+    "versionCode": "23",
     "link": "stub-release.apk"
   }
 }
