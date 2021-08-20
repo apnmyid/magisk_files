@@ -1,6 +1,6 @@
 {
   "magisk": {
-    "version": "228bbea2-lite-27",
+    "version": "228bbea2-lite-28",
     "versionCode": "23001",
     "link": "app-release.apk",
     "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@228bbea2857c193542a80fb50a8bba1bc0ad2802/app/src/main/res/raw/changelog.md"
