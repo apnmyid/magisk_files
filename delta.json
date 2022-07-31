@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": "25.2-delta-838e",
+    "versionCode": "25201",
+    "link": "app-release.apk",
+    "note": "https://raw.githubusercontent.com/HuskyDG/magisk-files/main/note_stable.md"
+  },
+  "stub": {
+    "versionCode": "33",
+    "link": "stub-release.apk"
+  }
+}
